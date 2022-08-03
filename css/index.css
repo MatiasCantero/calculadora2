@@ -1,6 +1,6 @@
 @font-face {
     font-family: calculadora;
-    src: url(/fonts/Calculator.ttf);
+    src: url(./fonts/Calculator.ttf);
 }
 body{
     display: grid;
